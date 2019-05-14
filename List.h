@@ -30,7 +30,7 @@ class List
     };
 
     Node* head; //head node: indicates the beginning of the list
-    Node* tail; //tailnode: incidcates the end of the list
+    Node* tail; //tail node: incidcates the end of the list
 };
 
 template <class T>
