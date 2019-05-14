@@ -1,6 +1,5 @@
-Preamble:     COMP2404 -- Assignment 4
+Preamble:   
 Author Name:  Patrick Komban
-Student #:    101063689
 
 Program:  Student Auditing System
 
